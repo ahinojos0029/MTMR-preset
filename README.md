@@ -1,7 +1,7 @@
 # MTMR-preset
 My touchbar preset for MTMR.
 
-![Screenshot](/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 * escape
