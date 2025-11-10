@@ -1,2 +1,2 @@
 # MTMR-preset
-MyTouchBar, My Rules !!!
+My touchbar preset for MTMR.
