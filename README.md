@@ -1,7 +1,7 @@
 # MTMR-preset
 My touchbar preset for MTMR.
 
-<insert image here>
+[insert image here]
 
 ## Features
 * escape
