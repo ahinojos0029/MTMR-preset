@@ -1,0 +1,21 @@
+[
+  { "type": "escape", "align": "left", "width": 60 },
+  //{ "type": "exitTouchbar", "align": "left", "bordered": false }, //optional
+  
+  { "type": "brightnessDown", "align": "left", "bordered": false, "width": 45 },
+  { "type": "brightnessUp", "align": "left", "bordered": false, "width": 45 },
+  
+  { "type": "dock", "align": "left" },
+  { "type": "music", "align": "left" },
+  
+  { "type": "sleep", "align": "right", "width": 45 },
+  { "type": "weather", "refreshInterval": 600, "units": "imperial", "api_key": "api_key_here", "icon_type": "images", "align": "right", "bordered": false, "width": 70 },
+  
+  { "type": "volumeDown", "align": "right", "bordered": false, "width": 45 },
+  { "type": "volumeUp", "align": "right", "bordered": false, "width": 45 },
+  
+  { "type": "play", "align": "right", "bordered": false, "width": 45 },
+  
+  { "type": "battery", "align": "right", "bordered": false, "width": 90 },
+  { "type": "timeButton", "formatTemplate": "h:mm a", "align": "right", "bordered": false, "width": 90 }
+]
