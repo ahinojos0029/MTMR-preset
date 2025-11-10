@@ -1,12 +1,12 @@
 [
   { "type": "escape", "align": "left", "width": 60 },
-  //{ "type": "exitTouchbar", "align": "left", "bordered": false }, //optional
+  //{ "type": "exitTouchbar", "align": "left", "bordered": false },
   
   { "type": "brightnessDown", "align": "left", "bordered": false, "width": 45 },
   { "type": "brightnessUp", "align": "left", "bordered": false, "width": 45 },
   
   { "type": "dock", "align": "left" },
-  { "type": "music", "align": "left" },
+  { "type": "music", "align": "left", "refreshInterval": 2, "bordered": false },
   
   { "type": "sleep", "align": "right", "width": 45 },
   { "type": "weather", "refreshInterval": 600, "units": "imperial", "api_key": "api_key_here", "icon_type": "images", "align": "right", "bordered": false, "width": 70 },
@@ -16,6 +16,6 @@
   
   { "type": "play", "align": "right", "bordered": false, "width": 45 },
   
-  { "type": "battery", "align": "right", "bordered": false, "width": 90 },
-  { "type": "timeButton", "formatTemplate": "h:mm a", "align": "right", "bordered": false, "width": 90 }
+  { "type": "battery", "align": "right", "bordered": false, "width": 80 },
+  { "type": "timeButton", "formatTemplate": "h:mm a", "align": "right", "bordered": false, "width": 80 }
 ]
